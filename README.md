@@ -1,5 +1,5 @@
 # netflix-clone
-OUTPUT:
+
 
 
 
