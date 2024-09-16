@@ -1,4 +1,4 @@
 # netflix-clone
 OUTPUT:
-https://github.com/user-attachments/assets/b04c70f9-05e9-4d1d-8ae9-39c11e1d64f8
+https://github.com/user-attachments/assets/c3b10d9b-8046-488e-b8a7-2060213bc9c6
 
